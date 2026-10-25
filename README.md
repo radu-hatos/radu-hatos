@@ -44,5 +44,5 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-quotes.vercel.app/api?theme=tokyonight" alt="Tech Quote" />
+  <code>"Para proteger un sistema de forma efectiva, debes aprender a pensar como el atacante."</code>
 </p>
