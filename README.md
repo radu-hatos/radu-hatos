@@ -13,7 +13,7 @@
 ██████╔╝███████║██║  ██║██║   ██║    ███████║███████║   ██║   ██║   ██║███████╗
 ██╔══██╗██╔══██║██║  ██║██║   ██║    ██╔══██║██╔══██║   ██║   ██║   ██║╚════██║
 ██║  ██║██║  ██║██████╔╝╚██████╔╝    ██║  ██║██║  ██║   ██║   ╚██████╔╝███████║
-╚═╝  ╚═╝╚═╝  ╚═╝╚═════╝  ╚═════╝     ╚═╝  ╚═╝╚═╝  ╚═╝   ╚═╝    ╚═════╝ ╚══════╝
+╚╝  ╚╝╚╝╚╝  ╚╝╚═════╝  ╚═════╝     ╚╝  ╚╝╚╝╚╝  ╚╝╚╝   ╚╝    ╚═════╝ ╚══════╝
   </pre>
 </p>
 
@@ -28,12 +28,13 @@
   I am a Computer Systems and Networks (SMR) student at IES Abastos, passionate about virtualization, system administration, and cybersecurity.
 </p>
 
-<h3 align="center">🛠️ Tech Stack & Tools</h3>
+<h3 align="center">📄 Curriculum Vitae</h3>
 <p align="center">
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
-  <img src="https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white" alt="VirtualBox">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+  EN You can download my CV as PDF <a href="https://raw.githubusercontent.com/radu-hatos/radu-hatos/main/Radu_Hatos_CV_EN.pdf"><b>[ English Version ]</b></a><br>
+  🇪🇸 Puedes descargar mi CV en PDF <a href="https://raw.githubusercontent.com/radu-hatos/radu-hatos/main/Radu_Hatos_CV_ES.pdf"><b>[ Versión en Español ]</b></a>
 </p>
+
+<br>
 
 <p align="center">
   <code>"You can never protect yourself 100%. What you do is protect yourself as much as possible and mitigate risk to an acceptable degree. You can never remove all risk." — Kevin Mitnick</code>
