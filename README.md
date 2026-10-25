@@ -21,16 +21,10 @@
   </pre>
 </p>
 
----
+<h1 align="center">👋 Hi, I'm Radu Hatos</h1>
 
-### 💻 Sobre mí
-* **Estudiante de SMR** en el IES Abastos apasionado por la informática, los sistemas operativos y la ciberseguridad.
-* Enfocado en automatizar procesos, aprender sobre virtualización (KVM, Proxmox, VirtualBox) y desarrollar soluciones eficientes.
-
-### 🛠️ Tecnologías y Herramientas
-* **Sistemas:** Linux (Debian/Ubuntu), Windows Server, Proxmox VE.
-* **Redes y Virtualización:** VirtualBox, Docker, KVM, QEMU, Redes LAN/WAN.
-* **Lenguajes y Scripting:** Python, Bash, HTML/CSS.
-
-### 📬 Contacto / Portfolio
-* 📂 Explora mis repositorios para ver mis boletines de prácticas, scripts y proyectos de sistemas.
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Source+Code+Pro&size=22&pause=1000&color=b8bb26&center=true&vCenter=true&width=500&lines=Welcome+.+.+.+happy+you're+here!;Compiling+Errors%2C+Debugging+Typos;Cybersecurity+Enthusiast;SMR+Student+at+IES+Abastos" alt="Typing SVG" />
+  </a>
+</p>
