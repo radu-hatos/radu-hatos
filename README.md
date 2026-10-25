@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/radu-hatos/radu-hatos/main/header_.png" alt="Tech Banner" width="100%">
+</p>
+
 <h1 align="center">👋 Hi, I'm Radu Hatos</h1>
 
 <p align="center">
@@ -15,10 +19,6 @@
 ██║  ██║██║  ██║██████╔╝╚██████╔╝    ██║  ██║██║  ██║   ██║   ╚██████╔╝███████║
 ╚═╝  ╚═╝╚═╝  ╚═╝╚═════╝  ╚═════╝     ╚═╝  ╚═╝╚═╝  ╚═╝   ╚═╝    ╚═════╝ ╚══════╝
   </pre>
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/radu-hatos/radu-hatos/main/header_.png" alt="Tech Banner" width="100%">
 </p>
 
 <hr>
