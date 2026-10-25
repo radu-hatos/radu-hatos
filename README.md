@@ -21,10 +21,6 @@
   </pre>
 </p>
 
-<p align="center">
-  <img src="https://profile-counter.glitch.me/radu-hatos/count.svg" alt="Visitor Count" />
-</p>
-
 <hr>
 
 <h3 align="center">💻 About Me</h3>
