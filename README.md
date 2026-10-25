@@ -18,7 +18,7 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/raduhatos/raduhatos/main/tu-banner.png" alt="Tech Banner" width="100%">
+  <img src="https://raw.githubusercontent.com/radu-hatos/radu-hatos/main/header_.png" alt="Tech Banner" width="100%">
 </p>
 
 <hr>
