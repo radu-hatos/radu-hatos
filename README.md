@@ -30,7 +30,7 @@
 
 <h3 align="center">📄 Curriculum Vitae</h3>
 <p align="center">
-  [ EN ] You can download my CV as PDF <a href="https://raw.githubusercontent.com/radu-hatos/radu-hatos/main/Radu_Hatos_CV_EN.pdf"><b>[ English Version ]</b></a><br>
+  [ EN ] You can download my CV as PDF <a href="https://github.com/radu-hatos/radu-hatos/blob/main/Radu_Hatos_CV_EN.pdf"><b>[ English Version ]</b></a><br>
   [ ES ] Puedes descargar mi CV en PDF <a href="https://raw.githubusercontent.com/radu-hatos/radu-hatos/main/Radu_Hatos_CV_ES.pdf"><b>[ Versión en Español ]</b></a>
 </p>
 
