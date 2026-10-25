@@ -17,6 +17,10 @@
   </pre>
 </p>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/raduhatos/raduhatos/main/tu-banner.png" alt="Tech Banner" width="100%">
+</p>
+
 <hr>
 
 <h3 align="center">💻 About Me</h3>
