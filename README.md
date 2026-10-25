@@ -44,5 +44,5 @@
 </p>
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Tech Quote" />
+  <img src="https://readme-quotes.vercel.app/api?theme=tokyonight" alt="Tech Quote" />
 </p>
