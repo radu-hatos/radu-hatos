@@ -37,17 +37,17 @@
 <h3 align="center">📂 Projects</h3>
 <p align="center">
   <b>[ EN ]</b><br>
-  • <a href="https://raw.githubusercontent.com/radu-hatos/radu-hatos/main/Phishing_and_Social_Engineering_Analysis_Project.pdf"><b>Phishing and Social Engineering Analysis</b></a><br>
-  • <a href="https://raw.githubusercontent.com/radu-hatos/radu-hatos/main/Cisco_Network_Configuration_and_Routing_Project.pdf"><b>Cisco Network Configuration and Routing</b></a><br>
-  • <a href="https://raw.githubusercontent.com/radu-hatos/radu-hatos/main/Network_Infrastructure_and_Secure_Remote_Access_Project.pdf"><b>Network Infrastructure and Secure Remote Access</b></a><br>
-  • <a href="https://raw.githubusercontent.com/radu-hatos/radu-hatos/main/Network_Traffic_Analysis_with_Wireshark_Project.pdf"><b>Network Traffic Analysis with Wireshark</b></a>
+  • <a href="https://github.com/radu-hatos/radu-hatos/blob/main/Phishing_and_Social_Engineering_Analysis_Project.pdf"><b>Phishing and Social Engineering Analysis</b></a><br>
+  • <a href="https://github.com/radu-hatos/radu-hatos/blob/main/Cisco_Network_Configuration_and_Routing_Project.pdf"><b>Cisco Network Configuration and Routing</b></a><br>
+  • <a href="https://github.com/radu-hatos/radu-hatos/blob/main/Network_Infrastructure_and_Secure_Remote_Access_Project.pdf"><b>Network Infrastructure and Secure Remote Access</b></a><br>
+  • <a href="https://github.com/radu-hatos/radu-hatos/blob/main/Network_Traffic_Analysis_with_Wireshark_Project.pdf"><b>Network Traffic Analysis with Wireshark</b></a>
 </p>
 <p align="center">
   <b>[ ES ]</b><br>
-  • <a href="https://raw.githubusercontent.com/radu-hatos/radu-hatos/main/Analisis_Practico_de_Tecnicas_de_Phishing_e_Ingenieria_Social.pdf"><b>Análisis Práctico de Técnicas de Phishing e Ingeniería Social</b></a><br>
-  • <a href="https://raw.githubusercontent.com/radu-hatos/radu-hatos/main/Proyecto_Configuracion_y_Enrutamiento_de_Redes_Cisco.pdf"><b>Proyecto de Configuración y Enrutamiento de Redes Cisco</b></a><br>
-  • <a href="https://raw.githubusercontent.com/radu-hatos/radu-hatos/main/Proyecto_Infraestructura_de_Red_y_Acceso_Remoto_Seguro.pdf"><b>Proyecto de Infraestructura de Red y Acceso Remoto Seguro</b></a><br>
-  • <a href="https://raw.githubusercontent.com/radu-hatos/radu-hatos/main/Proyecto_Analisis_de_Trafico_de_Red_con_Wireshark.pdf"><b>Proyecto de Análisis de Tráfico de Red con Wireshark</b></a>
+  • <a href="https://github.com/radu-hatos/radu-hatos/blob/main/Analisis_Practico_de_Tecnicas_de_Phishing_e_Ingenieria_Social.pdf"><b>Análisis Práctico de Técnicas de Phishing e Ingeniería Social</b></a><br>
+  • <a href="https://github.com/radu-hatos/radu-hatos/blob/main/Proyecto_Configuracion_y_Enrutamiento_de_Redes_Cisco.pdf"><b>Proyecto de Configuración y Enrutamiento de Redes Cisco</b></a><br>
+  • <a href="https://github.com/radu-hatos/radu-hatos/blob/main/Proyecto_Infraestructura_de_Red_y_Acceso_Remoto_Seguro.pdf"><b>Proyecto de Infraestructura de Red y Acceso Remoto Seguro</b></a><br>
+  • <a href="https://github.com/radu-hatos/radu-hatos/blob/main/Proyecto_Analisis_de_Trafico_de_Red_con_Wireshark.pdf"><b>Proyecto de Análisis de Tráfico de Red con Wireshark</b></a>
 </p>
 
 <br>
