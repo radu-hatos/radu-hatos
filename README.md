@@ -1,19 +1,3 @@
-## Hi there 👋
-
-<!--
-**radu-hatos/radu-hatos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 <h1 dir="auto"><a id="user-content-️-Radu-Hatos" class="anchor" aria-hidden="true" href="#️-Radu-Hatos"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a><g-emoji class="g-emoji" alias="surfing_man" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f3c4-2642.png">🐢</g-emoji> Radu-Hatos </h1>
 <!--
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=DotGothic16&size=22&pause=1000&color=B8BB26AC&center=true&vCenter=true&width=435&lines=Welcome+.+.+.+happy+you're+here!;Compiling+Errors%2C+Debugging+Typos;UHCL+CS%2C+Graduating+December+2023" alt="Typing SVG" /></a>-->
@@ -21,3 +5,32 @@ Here are some ideas to get you started:
 <p align="center">
    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Source+Code+Pro&size=22&pause=1000&color=b8bb26&center=true&vCenter=true&width=435&lines=Welcome+.+.+.+happy+you're+here!;Compiling+Errors%2C+Debugging+Typos;UHCL+CS%2C+Graduating+December+2023" alt="Typing SVG" class="center" style="text-align: center;"/></a>
 </p> 
+
+> <i>"If you can't explain it simply, you don't understand it well enough."</i> – Albert Einstein
+<p align="left">
+
+<h3 align="center">
+  Digital Craftsman: (Creator / Programmer / Problem Solver)...
+</h3>
+
+<p align="center">
+  <pre align="center">
+╔═╗╔═╗╔╦╗╦ ╦   ╦ ╦┌─┐┌┬┐┌─┐┌─┐
+╠═╝╠═╣ ║║║ ║───╠─╣├─┤ │ │ │└─┐
+╩  ╩ ╩═╩╝╚═╝   ╩ ╩┴ ┴ ┴ └─┘└─┘
+  </pre>
+</p>
+
+---
+
+### 💻 Sobre mí
+* **Estudiante de SMR** en el IES Abastos apasionado por la informática, los sistemas operativos y la ciberseguridad.
+* Enfocado en automatizar procesos, aprender sobre virtualización (KVM, Proxmox, VirtualBox) y desarrollar soluciones eficientes.
+
+### 🛠️ Tecnologías y Herramientas
+* **Sistemas:** Linux (Debian/Ubuntu), Windows Server, Proxmox VE.
+* **Redes y Virtualización:** VirtualBox, Docker, KVM, QEMU, Redes LAN/WAN.
+* **Lenguajes y Scripting:** Python, Bash, HTML/CSS.
+
+### 📬 Contacto / Portfolio
+* 📂 Explora mis repositorios para ver mis boletines de prácticas, scripts y proyectos de sistemas.
